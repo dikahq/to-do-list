@@ -1,9 +1,11 @@
 .asli {
-    color: white;
     text-align: center;
-    background-color: #1f2133;
-    padding: 16px;
-    border-radius: 9px;
+    color: white;
+    margin-bottom: 100PX;
+}
+
+#masukan {
+    margin-left: 80px;
 }
 
 #nan {
@@ -12,12 +14,18 @@
 }
 
 #ani {
-    text-align: center;
-    background-color: #273d49;
-    color: white;
+    /* text-align: center; */
+    background-color: #f7f8f9;
+    color: rgb(7, 0, 0);
     border-radius: 7px;
-    padding: 80px;
-    margin-top: 20px;
     margin-left: 80px;
     margin-right: 80px;
+    margin-bottom: 100px;
+}
+
+body {
+    background-image: url("gambar.png");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
 }
