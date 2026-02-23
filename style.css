@@ -1,0 +1,23 @@
+.asli {
+    color: white;
+    text-align: center;
+    background-color: #1f2133;
+    padding: 16px;
+    border-radius: 9px;
+}
+
+#nan {
+    background-color: aqua;
+    border-radius: 7px;
+}
+
+#ani {
+    text-align: center;
+    background-color: #273d49;
+    color: white;
+    border-radius: 7px;
+    padding: 80px;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
